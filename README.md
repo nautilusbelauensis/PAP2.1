@@ -1,7 +1,7 @@
 # PAP2.1
 ## Mechanik und Thermodynamik
-- [ ] 211 Gekoppelte Pendel
-- [ ] 212 Zähigkeit von Flüssigkeiten
+-     211 Gekoppelte Pendel
+-     212 Zähigkeit von Flüssigkeiten
 - [ ] 213 Kreisel
 - [ ] 221 Adiabatenkoeffizient 
 - [ ] 222 Heißluftmotor
